@@ -1,4 +1,5 @@
-# payment-service (코틀린 스프링부트 연습)
+# payment-service
+2022년 코틀린 스프링부트 연습용 프로젝트
 
 ## 프로젝트 정보
 ```
